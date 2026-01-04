@@ -1,0 +1,12 @@
+---
+
+### 3. Important Files (Code Snippets)
+
+#### A. `.gitignore` (Bahut zaroori hai taaki security bani rahe)
+```text
+node_modules
+.env
+artifacts
+cache
+coverage
+typechain-types
