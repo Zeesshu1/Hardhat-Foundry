@@ -8,5 +8,5 @@ node_modules
 .env
 artifacts
 cache
-coverage
+coverage5
 typechain-type
