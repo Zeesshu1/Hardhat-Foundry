@@ -9,4 +9,4 @@ node_modules
 artifacts
 cache
 coverage5
-typechain-type
+typechain-ty
